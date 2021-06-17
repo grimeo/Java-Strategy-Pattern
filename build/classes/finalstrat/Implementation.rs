@@ -1,0 +1,9 @@
+finalstrat.Implementation
+finalstrat.AttackCreeps
+finalstrat.ShrapnelToCreeps
+finalstrat.AssassinateTwice
+finalstrat.AssassinateOnce
+finalstrat.AssassinateCreeps
+finalstrat.AttackHero
+finalstrat.ShrapnelToHero
+finalstrat.AssassinateHero
