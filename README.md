@@ -1,5 +1,5 @@
 
-## Java-Strategy-Pattern
+## Java Strategy Pattern
 
 Java Strategy Pattern
 
